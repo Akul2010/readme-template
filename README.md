@@ -45,7 +45,7 @@ Any additional information goes here
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Akul2010](https://www.github.com/Akul2010)
 
 
 ## Badges
